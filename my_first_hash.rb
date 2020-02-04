@@ -1,7 +1,5 @@
 def my_hash
-  
-
-  
+  your_hash = {"coffee" => "latte", "milk" => "soy"}
 end
 
 
